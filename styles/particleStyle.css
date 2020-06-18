@@ -20,3 +20,7 @@ canvas {
 	background-position: 50% 50%;
 	display: inline-block;
 }
+
+#navbar-brand{
+	color: antiquewhite;
+}
